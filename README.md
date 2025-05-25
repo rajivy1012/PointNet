@@ -4,7 +4,7 @@ This project implements the PointNet architecture to perform **semantic segmenta
 
 ## 🚀 Overview
 
-- **Dataset**: Toronto-3D — large-scale outdoor LiDAR point cloud dataset with 9 labeled classes
+- **Dataset**:[Toronto-3D](https://github.com/WeikaiTan/Toronto-3D) Toronto-3D — large-scale outdoor LiDAR point cloud dataset with 9 labeled classes
 - **Model**: PointNet (adapted from Keras Examples)
 - **Task**: Per-point classification (semantic segmentation)
 - **Platform**: Google Colab (Python, TensorFlow/Keras)
